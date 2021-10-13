@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+.contactSlider{
+    background-image: url(../image/contact\ slider.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.contactSlider{
+    position: relative;
+}
+.cSliderDis{
+    position: absolute;
+    left: 500px;
+    top: 35%;
+    color: white;
+    text-align: center;
+}
+.cSliderDis h2{
+    font-size: 50px;
+    padding: 10px;
+}
+.cSliderDis p{
+    padding: 5px;
+}
+.contactForm{
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+}
+.contactForm input{
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    outline: none;
+   
+}
+.contactForm h2{
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+   
+}
+.myCForm{
+    
+    width: 500px;
+    position: absolute;
+    left:390px;
+    top:80px    ;
+}
+
+.myCForm button{
+    padding: 10px;
+    background-color: #3CB815;
+    margin-top: 10px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    border-radius: 30px ;
+    cursor: pointer;
+}
