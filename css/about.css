@@ -1,0 +1,34 @@
+
+
+
+
+#abslider{
+    background-image: url(../image/daraz\ banar.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+#abslider h2{
+    position: absolute;
+    top:50%;
+    text-align: center;
+    left: 40%;
+    color: #ffffff;
+    font-size: 50px;
+
+}
+
+.aboutText p{
+    padding: 20px 0;
+    font-size: 25px;
+}
+.aboutText h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.aboutText{
+    text-align: center;
+}
